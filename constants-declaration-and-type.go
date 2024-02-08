@@ -27,6 +27,7 @@ const BEEF, TWO, C = "meat", 2, "veg"
 
 const MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY int= 1, 2, 3, 4, 5, 6
 
+
 //Enumerations#
 //Listing of all elements of a set is called enumeration. Constants can be used for enumerations. For example:
 
